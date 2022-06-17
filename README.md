@@ -5,9 +5,9 @@
 面接内容の記録と復習、音声入力を利用した面接練習ができるAndroidアプリ
 
 ## 利用方法
-[![Image from Gyazo](https://i.gyazo.com/1cba12373bcfbcfcb870d4aeea9f9e28.png)](https://gyazo.com/1cba12373bcfbcfcb870d4aeea9f9e28)
 
 ホーム画面
+![ホーム画面](/img/image13.png) 
 
 [![Image from Gyazo](https://i.gyazo.com/549e7e4906d52496945b5ef4a3961946.png)](https://gyazo.com/549e7e4906d52496945b5ef4a3961946)
 
