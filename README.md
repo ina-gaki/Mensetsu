@@ -6,9 +6,11 @@
 
 ## 利用方法
 [![Image from Gyazo](https://i.gyazo.com/1cba12373bcfbcfcb870d4aeea9f9e28.png)](https://gyazo.com/1cba12373bcfbcfcb870d4aeea9f9e28)
+
 ホーム画面
 
 [![Image from Gyazo](https://i.gyazo.com/549e7e4906d52496945b5ef4a3961946.png)](https://gyazo.com/549e7e4906d52496945b5ef4a3961946)
+
 ホーム画面から「面接の記録、復習」ボタンを押すと面接記録画面に遷移します。
 そこで「企業名」「質問内容」「返答内容」を入力し、登録ボタンを押すことで入力した内容を保存することができます。
 これまでに登録したデータを閲覧したい場合、同ページの表示ボタンをクリックすることで登録したデータを一覧表示することができます。
@@ -18,6 +20,7 @@
 [![Image from Gyazo](https://i.gyazo.com/d07099b0d460cc9cd0310ae3c0242e38.png)](https://gyazo.com/d07099b0d460cc9cd0310ae3c0242e38)
 
 [![Image from Gyazo](https://i.gyazo.com/8b41613f036a9bf1324f23df89e3c969.png)](https://gyazo.com/8b41613f036a9bf1324f23df89e3c969)
+
 ホーム画面から「面接の練習」ボタンを押すと面接練習画面に遷移します。この画面では、面接での注意点を見ながらよく質問されている内容に対する受け答えの練習をすることができます。
 「質問スタート」ボタンを押すとランダムで質問が出題されると同時にストップウォッチと音声入力がスタートします。音声入力によって入力した文字数に応じて返答が長い、短いを判定します。
 
