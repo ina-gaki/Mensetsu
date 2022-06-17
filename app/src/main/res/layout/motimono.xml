@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MotimonoActivity">
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="@string/motimono_rirekisyo"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/checkBox" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="@string/motimono_hikki"
+        android:id="@+id/checkBox2" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="@string/motimono_keitai"
+        android:id="@+id/checkBox3" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="@string/motimono_annai"
+        android:id="@+id/checkBox4" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="@string/motimono_tokei"
+        android:id="@+id/checkBox5" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="@string/motimono_techou"
+        android:id="@+id/checkBox6" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="@string/motimono_hankati"
+        android:id="@+id/checkBox7" />
+
+    <Button
+        android:id="@+id/button_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/motimono_kakunin" />
+
+</LinearLayout>

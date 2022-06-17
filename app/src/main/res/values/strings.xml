@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">面接対策アプリ</string>
+    <string name="action_settings">設定</string>
+
+    <string name="fukusyu_button">面接の復習</string>
+    <string name="taisaku_button">面接の対策</string>
+    <string name="manners_button">面接のマナー</string>
+    <string name="motimono_button">持ち物チェック</string>
+
+    <string name="fukusyu">面接の復習</string>
+    <string name="taisaku">面接の対策</string>
+    <string name="manners">面接のマナー</string>
+    <string name="motimono">面接の持ち物</string>
+
+    <string name="motimono_rirekisyo">履歴書、ES</string>
+    <string name="motimono_hikki">筆記用具</string>
+    <string name="motimono_keitai">携帯電話</string>
+    <string name="motimono_annai">会社案内、パンフレット</string>
+    <string name="motimono_tokei">腕時計</string>
+    <string name="motimono_techou">手帳</string>
+    <string name="motimono_hankati">ハンカチ、ティッシュ</string>
+    <string name="motimono_kakunin">持ち物確認</string>
+
+    <string name="action_serach">検索</string>
+
+
+</resources>

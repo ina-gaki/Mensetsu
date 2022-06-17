@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Agate"
+    tools:context=".MensetsuActivity">
+
+    <Button
+        android:id="@+id/fukusyu_button"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="10dp"
+        android:background="@drawable/fukusyu_button_design"
+        android:text="@string/fukusyu_button" />
+
+        <Space
+            android:layout_width="fill_parent"
+            android:layout_height="10dp" />
+
+    <Button
+        android:id="@+id/taisaku_button"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_margin="10dp"
+        android:layout_toRightOf="@+id/fukusyu_button"
+        android:background="@drawable/taisaku_button_design"
+        android:text="@string/taisaku_button" />
+
+        <Space
+            android:layout_width="fill_parent"
+            android:layout_height="10dp" />
+
+    <Button
+        android:id="@+id/manners_button"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/fukusyu_button"
+        android:background="@drawable/manners_button_design"
+        android:text="@string/manners_button" />
+
+        <Space
+            android:layout_width="fill_parent"
+            android:layout_height="10dp" />
+
+    <Button
+        android:id="@+id/motimono_button"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/taisaku_button"
+        android:layout_toRightOf="@+id/manners_button"
+        android:background="@drawable/motimono_button_design"
+        android:text="@string/motimono_button" />
+
+</RelativeLayout>
