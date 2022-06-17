@@ -6,10 +6,10 @@
 
 ## 利用方法
 
-ホーム画面
 ![ホーム画面](/img/image13.png) 
 
-[![Image from Gyazo](https://i.gyazo.com/549e7e4906d52496945b5ef4a3961946.png)](https://gyazo.com/549e7e4906d52496945b5ef4a3961946)
+![記録画面](/img/image14.png) 
+
 
 ホーム画面から「面接の記録、復習」ボタンを押すと面接記録画面に遷移します。
 そこで「企業名」「質問内容」「返答内容」を入力し、登録ボタンを押すことで入力した内容を保存することができます。
@@ -17,18 +17,18 @@
 また、特定のデータのみ閲覧したい場合は、「企業名」「質問内容」「返答内容」のいずれかに検索したいワードを入力し、検索ボタンを押すことで入力したワードが含まれるデータが一覧で表示されます。
 
 
-[![Image from Gyazo](https://i.gyazo.com/d07099b0d460cc9cd0310ae3c0242e38.png)](https://gyazo.com/d07099b0d460cc9cd0310ae3c0242e38)
+![面接の練習画面](/img/image19.png) 
 
-[![Image from Gyazo](https://i.gyazo.com/8b41613f036a9bf1324f23df89e3c969.png)](https://gyazo.com/8b41613f036a9bf1324f23df89e3c969)
+![面接の練習画面](/img/image21.png) 
+
 
 ホーム画面から「面接の練習」ボタンを押すと面接練習画面に遷移します。この画面では、面接での注意点を見ながらよく質問されている内容に対する受け答えの練習をすることができます。
 「質問スタート」ボタンを押すとランダムで質問が出題されると同時にストップウォッチと音声入力がスタートします。音声入力によって入力した文字数に応じて返答が長い、短いを判定します。
 
-[![Image from Gyazo](https://i.gyazo.com/a90af55b7eee5481c784fc89f25e9b55.png)](https://gyazo.com/a90af55b7eee5481c784fc89f25e9b55)
+![面接の持ち物画面](/img/image22.png) 
 
-[![Image from Gyazo](https://i.gyazo.com/f47a1e348a398b83a6280f59ad12258c.png)](https://gyazo.com/f47a1e348a398b83a6280f59ad12258c)
+![面接の持ち物画面](/img/image23.png) 
 
-[![Image from Gyazo](https://i.gyazo.com/6bfde4c8974f16779c10af6e13f89704.png)](https://gyazo.com/6bfde4c8974f16779c10af6e13f89704)
 
 ホーム画面から「面接の持ち物」ボタンを押すと上記の画面に遷移します。
 この画面では面接時に必要な持ち物をチェックボックスを用いて活用することができます。
